@@ -1,2 +1,9 @@
 # movie_website
- 
+ DOCUMENTATION
+Project Name: Sounds of living at NYUAD
+
+Project Description: The website was created to host the ASMR themed "film" me and Avani filmed and edited in 30 minutes. It consists of 4 sections all at the same page that can be accessed using hamburger menu or scrolling. The scrolling progress is also shown. The concept was to simply introduce the film so I decided to use clear minimalistic design.
+
+Process: To make the website I had in mind, I used Atom where I created html, css, and js files. For the picture that is shown the moment you open the website I chose my own work - it illustrates white headphones on the blue background. When you hover over it, this image flips and shows details about ASMR, so users would understand the concept better. To match the color scheme, I continued using shades of blue throughout the website. As I mentionedd above, the website consists of 4 sections, each one of them consists of numerous divs to create the layout. White header's position is fixed. One of the sections called "sounds" consists of 8 screenshots from the film in a grid. WHen you hover mouse over them, the short discription pops out. I searched in the web a lot, there are overwhelmingly bi number of html/css resources online, and it takes time to apply the code I found to my website with its design. 
+
+Reflection/Evaluation: Initially, I had many ideas of the "interactivity" part, but I was limited in time and my understanding of the JS. As a result, I went with the easiest options, but I am satisfied with how it turned out for my first project. Layout in css is not easy, display:flex helped a lot with that. For user experience, I could've added links "go up" at the end of every section, but instead I added the scrolling progress bar at the top, so user can navigate. The embedded film looks super simple and could've been done in a much more creative way. I see so many ways to improve this website, but I think it is nice when there is a room for improvement. 
